@@ -1,0 +1,36 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    text-align: center;
+    margin: 83px;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 28px;
+}
+
+p {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    margin: 60px;
+    color: white;
+}
+
+.pai {
+    background-color: red;
+    height: 460px;
+    padding-top: 23px;
+}
+
+.filho {
+    background-color: green;
+    height: 164px;
+    margin: 44px;
+}
